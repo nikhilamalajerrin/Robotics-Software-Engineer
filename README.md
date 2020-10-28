@@ -1,6 +1,6 @@
 # Robotics-Software-Engineer
 
-![](2020-10-27-080954_1920x1007_scrot.png)
+![](2020-10-27-213841_1920x1007_scrot.png)
 
 ## Build Instructions
 1. Make sure you have the following installed:
